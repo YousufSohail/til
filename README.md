@@ -12,4 +12,4 @@ _1 TIL(s) and counting..._
 ---
 
 ## Engineering
-- [GraphQL](android/graphql)
+- [GraphQL](android/graphql.md)
